@@ -1,0 +1,14 @@
+ip link show
+ip addr show
+hostid
+ip neighbour
+ss
+ip token
+ip route
+ip maddr
+host google.com
+dig google.com
+tracepath google.com
+resolvectl status
+nmcli device status
+hostname

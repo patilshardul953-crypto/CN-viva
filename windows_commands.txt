@@ -1,0 +1,16 @@
+ipconfig /?
+ipconfig
+ipconfig /all
+ipconfig /release
+ipconfig /renew
+ping /?
+ping 192.178.211.100
+nslookup google.com
+netstat
+systeminfo
+hostname
+arp
+arp -a
+arp -g
+getmac
+route print
